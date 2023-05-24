@@ -23,3 +23,4 @@ numpy
 functools32
 contextlib2>=0.5.1
 pywinrm
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
